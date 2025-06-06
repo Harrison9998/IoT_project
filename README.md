@@ -38,3 +38,6 @@ Ensure that the DHT11 sensor is connected properly and the OLED display is funct
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# IoT_project
+>>>>>>> 470324e8bc21e0f6c81f80f62dc5bcfb178022cf
