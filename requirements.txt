@@ -1,0 +1,8 @@
+# This file lists the dependencies required for the project.
+dht
+ssd1306
+urequests
+framebuf
+machine
+gc
+network
